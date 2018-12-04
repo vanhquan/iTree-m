@@ -1,0 +1,7 @@
+FullName	String	100	
+D3	Number		
+CheckValue	Number		
+WorkDays	Number		
+Prepaid	Currency		
+Remarks	String	200	
+UnitPrice	Number

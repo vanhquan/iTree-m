@@ -1,0 +1,7 @@
+TranDate	DateTime		
+TInvoice	String	50	
+CInvoice	String	50	
+Content	String	250	
+TAmount	Currency		
+CAmount	Currency
+SignAmount	Currency
